@@ -1,7 +1,7 @@
 module Prawnto
   module TemplateHandlers
     class Raw < Base
-      def self.call(template)
+      def self.call(template, source = nil)
         #TODO: what's up with filename here?  not used is it?
         source,filename = massage_template_source(template)
         "_prawnto_compile_setup;" +
