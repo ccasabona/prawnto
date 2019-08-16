@@ -2,11 +2,12 @@ Prawnto
 =======
 
 a rails plugin providing templating abilities
-for generating pdf files leveraging the new kick-ass prawn library
+for generating pdf files leveraging the prawn library
 
-full documentation/demos at: http://cracklabs.com/prawnto
+full documentation/demos used to be at http://cracklabs.com/prawnto; however
+this site no longer exists.
 
-
+Originally written with single arity template handlers.  
 
 
 Copyright (c) 2008 cracklabs.com, released under the MIT license
