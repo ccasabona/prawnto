@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Support .prawn templates as Prawn::Document content}
   s.description = %q{Support .prawn templates as Prawn::Document content}
 
-  s.rubyforge_project = "prawnto"
+  # s.rubyforge_project = "prawnto"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
