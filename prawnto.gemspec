@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{Support .prawn templates as Prawn::Document content}
   s.description = %q{Support .prawn templates as Prawn::Document content}
 
+  #  Gem::Specification#rubyforge_project= is deprecated with no replacement. It will be removed on or after 2019-12-01
   # s.rubyforge_project = "prawnto"
 
   s.files         = `git ls-files`.split("\n")
